@@ -1,3 +1,4 @@
+
 let N=20;
 let count=0;
 for (let i=1;i<=N;i++){
@@ -10,4 +11,3 @@ if (count==2){
 }
 else {
 	console.log("Not Prime");
-}
